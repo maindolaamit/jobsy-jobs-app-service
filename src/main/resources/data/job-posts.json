@@ -1,0 +1,131 @@
+[
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Developer",
+    "aboutJob": "Looking for a developer with 2 years of experience",
+    "companyId": "",
+    "location": "Gurgaon, Haryana, India",
+    "skills": "ReactJs, NodeJs, MongoDB",
+    "status": "ACTIVE"
+  },
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Senior Developer",
+    "aboutJob": "Looking for a developer with 5 years of experience",
+    "companyId": "",
+    "location": "Gurgaon, Haryana, India",
+    "skills": "ReactJs, NodeJs, MongoDB",
+    "status": "ACTIVE"
+  },
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Fullstack Developer",
+    "aboutJob": "Looking for a fullstack developer with 8 years of experience",
+    "companyId": "",
+    "location": "Gurgaon, Haryana, India",
+    "skills": "ReactJs, NodeJs, MongoDB, AngularJs, Java, SpringBoot",
+    "status": "ACTIVE"
+  },
+  {
+   "jobType": "FULL_TIME",
+    "jobTitle": "Senior Frontend Developer",
+    "aboutJob": "Looking for a frontend developer with 4 years of experience",
+    "companyId": "",
+    "location": "Bangalore, Karnataka, India",
+    "skills": "ReactJs, TypeScript, AngularJs, JavaScript, HTML, CSS",
+    "status": "ACTIVE"
+  },
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Senior Backend Developer",
+    "aboutJob": "Looking for a backend developer with 4 years of experience",
+    "companyId": "",
+    "location": "Bangalore, Karnataka, India",
+    "skills": "NodeJs, MongoDB, Java, SpringBoot",
+    "status": "ACTIVE"
+  },
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Senior Fullstack Developer",
+    "aboutJob": "Looking for a fullstack developer with 8 years of experience",
+    "companyId": "",
+    "location": "Bangalore, Karnataka, India",
+    "skills": "ReactJs, NodeJs, MongoDB, AngularJs, Java, SpringBoot",
+    "status": "ACTIVE"
+  },
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Senior Developer",
+    "aboutJob": "Looking for a developer with 5 years of experience",
+    "companyId": "",
+    "location": "Bangalore, Karnataka, India",
+    "skills": "ReactJs, NodeJs, MongoDB",
+    "status": "ACTIVE"
+  },
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Developer",
+    "aboutJob": "Looking for a developer with 2 years of experience",
+    "companyId": "",
+    "location": "Bangalore, Karnataka, India",
+    "skills": "ReactJs, NodeJs, MongoDB",
+    "status": "ACTIVE"
+  },
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Senior Frontend Developer",
+    "aboutJob": "Looking for a frontend developer with 4 years of experience",
+    "companyId": "",
+    "location": "Pune, Maharashtra, India",
+    "skills": "ReactJs, TypeScript, AngularJs, JavaScript, HTML, CSS",
+    "status": "ACTIVE"
+  },
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Senior Backend Developer",
+    "aboutJob": "Looking for a backend developer with 4 years of experience",
+    "companyId": "",
+    "location": "Pune, Maharashtra, India",
+    "skills": "NodeJs, MongoDB, Java, SpringBoot",
+    "status": "ACTIVE"
+  },
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Senior Fullstack Developer",
+    "aboutJob": "Looking for a fullstack developer with 8 years of experience",
+    "companyId": "",
+    "location": "Pune, Maharashtra, India",
+    "skills": "ReactJs, NodeJs, MongoDB, AngularJs, Java, SpringBoot",
+    "status": "ACTIVE"
+  },
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Senior Developer",
+    "aboutJob": "Looking for a developer with 5 years of experience",
+    "companyId": "",
+    "location": "Pune, Maharashtra, India",
+    "skills": "ReactJs, NodeJs, MongoDB",
+    "status": "ACTIVE"
+  },
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Project Manager",
+    "aboutJob": "Looking for a project manager with 8 years of experience",
+    "companyId": "",
+    "location": "Pune, Maharashtra, India",
+    "skills": "Project Management, Agile, Scrum, Jira, Confluence",
+    "status": "ACTIVE"
+  },
+  {
+    "jobType": "FULL_TIME",
+    "jobTitle": "Project Manager",
+    "aboutJob": "Looking for a project manager with 8 years of experience in Microsoft Technologies",
+    "companyId": "",
+    "location": "Bangalore, Karnataka, India",
+    "skills": "Project Management, Agile, Scrum, Jira, Confluence, Microsoft Technologies",
+    "status": "ACTIVE"
+  }
+
+
+
+]
